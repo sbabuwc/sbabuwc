@@ -1,5 +1,7 @@
-### Hi there 👋
+### This is my personal Github page to store all my work👋
 
+- Here is the link for the course I am taking
+  https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home
 <!--
 **sbabuwc/sbabuwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
